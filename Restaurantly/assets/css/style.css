@@ -1323,6 +1323,7 @@ section {
   overflow: hidden;
   border-right: 3px solid #454035;
   border-bottom: 3px solid #454035;
+ 
 }
 
 .gallery .gallery-item img {
@@ -1718,11 +1719,11 @@ section {
 
 #footer .copyright {
   text-align: center;
-  padding-top: 30px;
+  
 }
 
 #footer .credits {
-  padding-top: 10px;
+ 
   text-align: center;
   font-size: 13px;
   color: #fff;
